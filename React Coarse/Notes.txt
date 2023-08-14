@@ -1,0 +1,5 @@
+Install Nvm 
+Insstalling node.js with nvm is better
+>>nvm list available             //to see what are available versions of node
+>> nvm install <version>
+>>npm i -g yarn
